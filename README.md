@@ -22,7 +22,7 @@ Este es un proyecto de clon de Spotify desarrollado con Astro, React, Svelte y T
 
 1. Clona este repositorio en tu máquina local.
    ```bash
-   git clone https://github.com/tuusuario/spotify-clone.git
+   git clone https://github.com/BryanSagbay/Spotify-Clone.git
    ```
 
 2. Navega al directorio del proyecto.
